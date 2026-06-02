@@ -70,7 +70,6 @@ git clone https://github.com/Sathvika1802/student-academic-information-system.gi
 cd student-academic-information-system
 ```
 
-Replace `your-username` with your GitHub username.
 
 ### 2. Install backend dependencies
 
@@ -108,7 +107,6 @@ The frontend development server runs locally on port `5173`.
 
 The default admin account is created when the database is initialized. Faculty and student accounts can be created from the Admin Dashboard.
 
-For security reasons, demo passwords are not included in this README.
 
 ## Screenshots
 
@@ -167,6 +165,10 @@ For security reasons, demo passwords are not included in this README.
 ### Faculty Marks and Attendance
 
 ![Faculty Marks and Attendance](screenshots/14-faculty-marks-attendance.png)
+
+### Generated Transcript
+
+![Generated Transcript](screenshots/15-student-academic-transcript.png)
 
 
 ## Sample Output
