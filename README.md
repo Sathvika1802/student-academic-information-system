@@ -168,7 +168,7 @@ The default admin account is created when the database is initialized. Faculty a
 
 ### Generated Transcript
 
-![Generated Transcript](screenshots/15-student-academic-transcript.png)
+![Generated Transcript](screenshots/15-student-transcript.png)
 
 
 ## Sample Output
