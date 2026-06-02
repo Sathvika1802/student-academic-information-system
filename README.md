@@ -51,15 +51,16 @@ The system was built using React for the frontend, Node.js and Express.js for th
 
 ## Project Files
 
-```text
-backend/database.js - Database setup, table creation, helper functions, and default admin creation.
-backend/server.js - Express backend server containing API routes for authentication, admin, faculty, and student operations.
-frontend/src/App.jsx - Main React application with role-based dashboards and frontend logic.
-frontend/src/App.css - Styling for login page, dashboards, cards, forms, tables, modals, and backgrounds.
-frontend/src/api.js - API configuration for backend communication.
-screenshots/ - Project screenshots used in the README.
-sample-output/student-transcript.pdf - Sample generated student transcript.
-```
+- `backend/database.js` - Database setup, table creation, helper functions, and default admin creation.
+- `backend/server.js` - Express backend server containing API routes for authentication, admin, faculty, and student operations.
+- `backend/package.json` - Backend dependencies and npm scripts.
+- `frontend/src/App.jsx` - Main React application with role-based dashboards and frontend logic.
+- `frontend/src/App.css` - Styling for login page, dashboards, cards, forms, tables, modals, and backgrounds.
+- `frontend/src/api.js` - API configuration for backend communication.
+- `frontend/public/` - Static images, icons, and background assets used in the application.
+- `frontend/package.json` - Frontend dependencies and npm scripts.
+- `screenshots/` - Project screenshots used in the README.
+- `sample-output/student-transcript.pdf` - Sample generated student transcript PDF.
 
 ## How to Run Locally
 
