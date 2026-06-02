@@ -122,7 +122,7 @@ For security reasons, demo passwords are not included in this README.
 
 ### User Creation
 
-![User Creation](screenshots/03-user-creation.png)
+![User Creation](screenshots/03-user-management.png)
 
 ### Student Management
 
@@ -150,11 +150,11 @@ For security reasons, demo passwords are not included in this README.
 
 ### Student Course Registration
 
-![Student Course Registration](screenshots/10-student-registration.png)
+![Student Course Registration](screenshots/10-student-dashboard.png)
 
 ### Student Dashboard
 
-![Student Dashboard](screenshots/11-student-dashboard.png)
+![Student Dashboard](screenshots/11-student-registration.png)
 
 ### Student Grades and Attendance
 
@@ -162,7 +162,7 @@ For security reasons, demo passwords are not included in this README.
 
 ### Faculty Assigned Courses
 
-![Faculty Assigned Courses](screenshots/13-faculty-profile-courses.png)
+![Faculty Assigned Courses](screenshots/13-faculty-dashboard.png)
 
 ### Faculty Marks and Attendance
 
